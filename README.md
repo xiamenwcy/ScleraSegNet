@@ -10,7 +10,7 @@ requiring complicated heuristics. To facilitate comparison with our method or co
 on the predicted sclera masks, we have made our best-performing ScleraSegNet(CBAM) and ScleraSegNet (SSBC) models and corresponding
 testing codes/evaluation protocols freely available to the community. 
 
-<img src='sclera.png' width="820px">
+<img src='sclera.png' width="420px">
 
 In the above figure, sclera images from different datasets, ground truths, predicted masks of ScleraSegNet(CBAM), and segmentation errors 
 where green and red pixels represent the false positives and false negative pixels, respectively, are shown from left to right.
@@ -44,7 +44,7 @@ We have provided the complete Caffe codes. Just install it following the officia
 ### Trained model and testing codes
 We have released the trained models on MICHE-I,UBIRIS.v2 and SBVPI databases for both ScleraSeegNet (CBAM) and ScleraSegNet (SSBC) and the corresponding testing codes (see **testing** folder). 
 
-- models [[Google Drive]]() [[Baidu Drive]](https://pan.baidu.com/s/1IfGvPdszbBWHLya59yAhHw)
+- models [[Google Drive]](https://drive.google.com/open?id=1uOTiJsWjxXJ5GieDi_pP8oDPnSsdaf2W) [[Baidu Drive]](https://pan.baidu.com/s/1IfGvPdszbBWHLya59yAhHw)
 
 ###  Training
 For company security considerations, it is with regret that we are not allowed to release the training scripts. However, for training, all you need to do is using this released code and adding data augmentation described in the paper. Taking the released prototxt file as reference and using the hyper-parameters described in the paper, we think it is easy to reproduce the reported performance. If you have any question about the training process, please feel free to contact us. 
