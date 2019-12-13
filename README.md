@@ -39,12 +39,12 @@ If you use this model or corresponding codes for your research, please cite our 
 ### Installing Caffe
 We have provided the complete Caffe codes. Just install it following the official guide. You can also refer to [our another extended Caffe Version](https://github.com/xiamenwcy/extended-caffe).
 
-- Caffe [[Google Drive]](https://drive.google.com/open?id=1YcJXEPT1EycPxu-sI2en4L48xRby57fv) [[Baidu Drive]](https://pan.baidu.com/s/1EMG92kJr4Yw4Lmusqh0ORQ)
+- Caffe [[Google Drive]](https://drive.google.com/file/d/1YcJXEPT1EycPxu-sI2en4L48xRby57fv/view?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1EMG92kJr4Yw4Lmusqh0ORQ)
 
 ### Trained model and testing codes
 We have released the trained models on MICHE-I,UBIRIS.v2 and SBVPI databases for both ScleraSeegNet (CBAM) and ScleraSegNet (SSBC) and the corresponding testing codes (see **testing** folder). 
 
-- models [[Google Drive]](https://drive.google.com/open?id=1uOTiJsWjxXJ5GieDi_pP8oDPnSsdaf2W) [[Baidu Drive]](https://pan.baidu.com/s/1IfGvPdszbBWHLya59yAhHw)
+- models [[Google Drive]](https://drive.google.com/file/d/1c8e38jkxYFNdnRuYt-oMtLYp98VZvTza/view?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1g-ktpPe8GFEtmAzePmXvxg)
 
 ###  Training
 For company security considerations, it is with regret that we are not allowed to release the training scripts. However, for training, all you need to do is using this released code and adding data augmentation described in the paper. Taking the released prototxt file as reference and using the hyper-parameters described in the paper, we think it is easy to reproduce the reported performance. If you have any question about the training process, please feel free to contact us. 
