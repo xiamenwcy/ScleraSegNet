@@ -19,14 +19,27 @@ where green and red pixels represent the false positives and false negative pixe
 If you use this model or corresponding codes for your research, please cite our papers.
 
 ```
-@inproceedings{wangsclerasegnet,
+@inproceedings{wang2019sclerasegnet,
   title={ScleraSegNet: an Improved U-Net Model with Attention for Accurate Sclera Segmentation},
   author={Wang, Caiyong and He, Yong and Liu, Yunfan and He, Zhaofeng and He, Ran and Sun, Zhenan},
-  booktitle={IAPR International Conference on Biometrics},
+  booktitle={2019 International Conference on Biometrics (ICB)},
   year={2019},
-  organization={IEEE}
+  pages={1-8}
 }
 ```
+```
+@article{wang2020sclerasegnet,
+  title={ScleraSegNet: an Attention Assisted U-Net Model for Accurate Sclera Segmentation},
+  author={Wang, Caiyong and Wang, Yunlong and Liu, Yunfan and He, Zhaofeng and He, Ran and Sun, Zhenan},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+  year={2020},
+  volume={2},
+  number={1},
+  pages={40-54},
+  publisher={IEEE}
+}
+```
+
 ## Prerequisites
 - linux
 - Python 2.7 ( python3 is not supported!)
