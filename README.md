@@ -39,6 +39,7 @@ If you use this model or corresponding codes for your research, please cite our 
   publisher={IEEE}
 }
 ```
+Anyone is permitted to use, distribute and change this program for any non-commercial usage. However each of such usage and/or publication must include above citation of this paper.
 
 ## Prerequisites
 - linux
