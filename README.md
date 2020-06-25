@@ -1,7 +1,7 @@
 
 # ScleraSegNet: an Improved U-Net Model with Attention for Accurate Sclera Segmentation
 
-Created by [Caiyong Wang](http://wangcaiyong.com/) @ Institute of Automation Chinese Academy of Sciences (**CASIA**)
+Created by [Caiyong Wang](https://caiyong.wang/) @ Institute of Automation, Chinese Academy of Sciences (**CASIA**)
 
 We propose an improved U-Net model with attention for sclera segmentation, named **ScleraSegNet**. Multiple off-the-shelf or
 improved attention modules are embedded into the central bottleneck part or skip connection part of U-Net, helping the original 
