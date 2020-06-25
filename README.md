@@ -77,7 +77,6 @@ Since we do not have permission to release the data, we do not provide the origi
 - [UBIRIS.v2](http://iris.di.ubi.pt/ubiris2.html)
 
 
-
 ## Reference 
 [1] Lucio D R, Laroca R, Severo E, et al. Fully convolutional networks and generative adversarial networks applied to sclera segmentation[C]//2018 IEEE 9th International Conference on Biometrics Theory, Applications and Systems (BTAS). IEEE, 2018: 1-7.
 
@@ -85,6 +84,9 @@ Since we do not have permission to release the data, we do not provide the origi
 
 [3]  A. Das, U. Pal, M. Blumenstein, C. Wang, Y. He, Y. Zhu, and Z. Sun,“Sclera segmentation benchmarking competition in cross-resolution en-
 vironment,” in IAPR International Conference on Biometrics. IEEE,2019.
+
+## Disclaimer
+This package is only provided on "as it is" basis and does not include any warranty of any kind.
 
 ## Questions
 Please contact wangcaiyong2017@ia.ac.cn
