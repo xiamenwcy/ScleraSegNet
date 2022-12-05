@@ -55,6 +55,10 @@ We have provided the complete Caffe codes. Just install it following the officia
 
 - Caffe [[Google Drive]](https://drive.google.com/file/d/1YcJXEPT1EycPxu-sI2en4L48xRby57fv/view?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1EMG92kJr4Yw4Lmusqh0ORQ)
 
+<img src="good-news.gif" width="8%" height="8%"> 
+
+> We have built a out-of-the-box Docker Caffe image ([https://www.codewithgpu.com/i/xiamenwcy/IrisParseNet/casia_caffe_tifs](https://www.codewithgpu.com/i/xiamenwcy/IrisParseNet/casia_caffe_tifs)) which is deployed on the [AutoDL](https://www.autodl.com/home) cloud server. You can use it to deploy **ScleraSegNet**. :clap::clap:
+
 ### Trained model and testing codes
 We have released the trained models on MICHE-I,UBIRIS.v2 and SBVPI databases for both ScleraSeegNet (CBAM) and ScleraSegNet (SSBC) and the corresponding testing codes (see **testing** folder). 
 
